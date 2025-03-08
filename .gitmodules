@@ -5,3 +5,6 @@
 [submodule "hydraulics"]
 	path = hydraulics
 	url = https://github.com/edm44/hydraulics
+[submodule "msdrought"]
+	path = msdrought
+	url = https://github.com/edm44/msdrought
